@@ -1,0 +1,24 @@
+Planning the sundayschool node project
+
+Frontend Applicaiton - client side
+    - npm init vite
+    - project name
+    - select react
+    - select javascript
+    - cd sundayschool-app
+    - npm install
+    - npm run dev
+
+Backend Applicaiton - server side
+    - npm init -y
+    - npm install express
+    - npm install mongoose
+    - npm install nodemon
+    - npm install cors
+    - run the project - npm start
+
+
+MongoDB
+    - connect the mongoDB compass
+    - create database - sundayschool-dev
+    - create collection - studentslist
